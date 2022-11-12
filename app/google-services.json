@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878515989912",
+    "project_id": "grupo-12-firebase",
+    "storage_bucket": "grupo-12-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878515989912:android:8aa8b5dc58d2eb0e9c4fed",
+        "android_client_info": {
+          "package_name": "com.example.grupo12firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878515989912-dv7vr4kvgjod44e409vqmeed4cink46n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDuuDdv9LPYBASInzHAjeDHHfoP5DGVpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878515989912-dv7vr4kvgjod44e409vqmeed4cink46n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
